@@ -6,8 +6,8 @@ This project demonstrates advanced SQL skills by solving 15 real-world hospital 
 ## 📂 Repository Structure
 Hospital-Management-SQL-Analysis
 - README.md
-─ 01_Hospital_Management_System.sql  # Database schema and data
- 02_SQL_Analysis.sql                 # 15 business problems and solutions
+-  01_Hospital_Management_System.sql  # Database schema and data
+-  02_SQL_Analysis.sql # 15 business problems and solutions
 ---
 ## 🛠️ Skills Used
 - SQL
@@ -74,7 +74,7 @@ percentage of stable patients as per declared in the notes after surgery.
 
 ## 👨‍💻 Author
 **Samarjeet Rajput**
-Aspiring Data Analyst
+- Aspiring Data Analyst
 Skills:
 - SQL
 - Power BI
