@@ -3,6 +3,13 @@
 ## 📌 Project Overview
 This project demonstrates advanced SQL skills by solving 15 real-world hospital business problems using a Hospital Management System database. The analysis focuses on extracting business insights and improving operational decision-making through SQL.
 ---
+## 📂 Repository Structure
+Hospital-Management-SQL-Analysis/
+
+│── README.md
+│── 01_Hospital_Management_System.sql   # Database schema and data
+│── 02_SQL_Analysis.sql                 # 15 business problems and solutions
+---
 ## 🛠️ Skills Used
 - SQL
 - Joins
