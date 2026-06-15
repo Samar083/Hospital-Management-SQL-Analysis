@@ -1,4 +1,4 @@
-# Hospital Management SQL Analysis
+# 🏥 Hospital Management SQL Analysis
 ---
 ## 📌 Project Overview
 This project demonstrates advanced SQL skills by solving 15 real-world hospital business problems using a Hospital Management System database. The analysis focuses on extracting business insights and improving operational decision-making through SQL.
