@@ -71,3 +71,12 @@ percentage of stable patients as per declared in the notes after surgery.
 - GitHub
 ## 🎯 Project Objective
 - The objective of this project is to demonstrate practical SQL skills by solving business-oriented analytical problems using relational databases. The project showcases the use of advanced SQL concepts for data analysis and decision-making.
+
+## 👨‍💻 Author
+**Samarjeet Rajput**
+Aspiring Data Analyst
+Skills:
+- SQL
+- Power BI
+- Python
+- Excel
